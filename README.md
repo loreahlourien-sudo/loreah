@@ -1,1 +1,1 @@
-# loreah
+“I am a learner of the ALX backend web development and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search. This is why I started with software engineering, what I am passionate about and what inspires me: learning new things and experimenting with them. My aim is to senior web developernand that’s why I would like to work on web deveolpment projects."
